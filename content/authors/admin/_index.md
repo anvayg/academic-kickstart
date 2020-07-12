@@ -23,6 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Programming Languages
 - Program Analysis
+- Logic
 
 education:
   courses:
@@ -40,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#mailto:anvayg@princeton.edu'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/anvayg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,7 +67,8 @@ user_groups:
 - Visitors
 ---
 
-I am an incoming PhD student at the University of Wisconsin-Madison. 
+I am an incoming PhD student at the University of Wisconsin-Madison. I am broadly interested in
+Programming Languages research, and in Program Verification and Synthesis in particular.
 
 I previously graduated from Princeton University with a BA in Computer Science in 2020. 
-There I did research with Professor Andrew Appel and Professor Zachary Kincaid.
+There I worked with Professor Andrew Appel and Professor Zachary Kincaid.
