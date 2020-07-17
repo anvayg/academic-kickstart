@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Programming Languages
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD in Computer Science, Current
     institution: University of Wisconsin-Madison
     # year: 2012
   - course: BA in Computer Science
@@ -71,4 +71,7 @@ I am an incoming PhD student at the University of Wisconsin-Madison. I am broadl
 Programming Languages research, and in Program Verification and Synthesis in particular.
 
 I previously graduated from Princeton University with a BA in Computer Science in 2020. 
-There I worked with Professor Andrew Appel and Professor Zachary Kincaid.
+There I worked with Professor Andrew Appel and Professor Zachary Kincaid. My undergraduate thesis 
+was on developing a verified CPS (continuation-passing style) transformation for the CertiCoq compiler.
+
+Outside of research, I enjoy dancing, running and reading. 
