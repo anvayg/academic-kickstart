@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#mailto:anvayg@princeton.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: '#mailto:anvayg@cs.wisc.edu'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -67,11 +67,12 @@ user_groups:
 - Visitors
 ---
 
-I am an incoming PhD student at the University of Wisconsin-Madison. I am broadly interested in
+I am a 1st year PhD student at the University of Wisconsin-Madison. I am broadly interested in
 Programming Languages research, and in Program Verification and Synthesis in particular.
 
 I previously graduated from Princeton University with a BA in Computer Science in 2020. 
 There I worked with Professor Andrew Appel and Professor Zachary Kincaid. My undergraduate thesis 
-was on developing a verified CPS (continuation-passing style) transformation for the CertiCoq compiler.
+was on developing a verified CPS (continuation-passing style) transformation for the 
+[CertiCoq](https://www.cs.princeton.edu/~appel/certicoq/) compiler.
 
-Outside of research, I enjoy dancing, running and reading. 
+Outside of work, I enjoy dancing, running and reading. 
